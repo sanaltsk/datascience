@@ -1,0 +1,1 @@
+ggplot(data=csv,aes(x=sentiment,y=count,fill=sentiment)) + geom_bar(stat="identity") 
