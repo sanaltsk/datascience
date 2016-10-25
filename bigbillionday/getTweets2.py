@@ -2,10 +2,10 @@ from twython import *
 import unirest
 
 #supply the appropriate value
-TWITTER_APP_KEY = 'TqDEKbl5kdZ4yhtD6AdaX98kW' 
-TWITTER_APP_KEY_SECRET = 'oXTBQqP2I8SZcUBl0hDtLCij64kkJPx6SJIjd4Fp0Vt0A5rFdP' 
-TWITTER_ACCESS_TOKEN = '13758412-n33Qh3nL2GPkpdFDxg906hyeqv9cfIJ4BS6VdxNsg'
-TWITTER_ACCESS_TOKEN_SECRET = 'BbnInN2lsO3zRcTAZZDcDnrzxBSxcSwliqH2WQRjBBoPO'
+TWITTER_APP_KEY = '*****' 
+TWITTER_APP_KEY_SECRET = '*****' 
+TWITTER_ACCESS_TOKEN = '******'
+TWITTER_ACCESS_TOKEN_SECRET = '******'
 
 t = Twython(app_key=TWITTER_APP_KEY, 
             app_secret=TWITTER_APP_KEY_SECRET, 
